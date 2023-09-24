@@ -7,6 +7,7 @@
 using namespace std;
 int main()
 {
+
 	srand(time(NULL));
 	const int N=28 , M=40;
 	char arr[N][M];
